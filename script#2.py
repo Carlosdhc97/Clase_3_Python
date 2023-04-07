@@ -1,4 +1,4 @@
-#Ordenae manualmente tres stacks
+#Ordenar tres stacks paso a paso
 import string
     stack1 = [1,2,3]
     stack2 = [5,4]
